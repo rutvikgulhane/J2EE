@@ -1,0 +1,9 @@
+pojos\BaseEntity.class
+tester\TestHibernate.class
+pojos\Student.class
+pojos\Project.class
+pojos\Admission.class
+pojos\AdharCard.class
+pojos\Course.class
+pojos\Status.class
+utils\HibernateUtils.class
